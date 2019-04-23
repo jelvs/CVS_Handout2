@@ -27,6 +27,8 @@ maximum speed is 10 Km/h.
 
 **\<n> -> operational height**
 
+![Alt text](image.png?raw=true "3D")
+
 ## OPERATIONS:
     
     - Take Off
@@ -69,4 +71,6 @@ maximum speed is 10 Km/h.
     that guarantees the soundness of the ADT. Also, don't forget the
     state invariant.
 
-## The due date is Friday, 29 of April, 23h59m.
+![Alt text](diagram.png?raw=true "Diagram")
+
+## The due date is Friday, 3 of May, 23h59m.
